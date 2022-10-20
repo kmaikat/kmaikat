@@ -16,11 +16,7 @@
 </a>
 <p>
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kmaikat" />
-</a>
-<p>
+
 
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/kpmai20/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
