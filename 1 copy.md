@@ -1,4 +1,3 @@
-# kmaikat
 
 <div align='center'>
  <image src="https://media.giphy.com/media/DdHspapm5FbWhQPwtG/giphy.gif" width="240" height="130" >
