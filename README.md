@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmaikat&show_icons=true&theme=beufy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmaikat&show_icons=true&theme=buefy" />
 </a>
 <p>
 
