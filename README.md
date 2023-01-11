@@ -15,7 +15,7 @@
 
 🎨 On my free time, I love to spend time with family and friends, hang out with my fur baby (ask me about my shiba), watch the latest shows on Netflix, or learning Blender! If I could have one wish, I'd wish for more time in the day so I can do everything. 
 
-👩🏻‍💻 Some other skills I have: Python · JavaScript · Flask · React · Redux · SQL · HTML5 · CSS · SQLAlchemy · API Development · Object-Oriented Programming · Git · GitHub · Express · Redux · Sequelize · Software Development · SQLite · HTML · React Native · Full-Stack Development · Front-End Development · Back-End Web Development
+👩🏻‍💻 Some other tech I use: Python · JavaScript · Flask · React · Redux · SQL · HTML5 · CSS · SQLAlchemy · API Development · Object-Oriented Programming · Git · GitHub · Express · Redux · Sequelize · Software Development · SQLite · HTML · React Native · Full-Stack Development · Front-End Development · Back-End Web Development
 
  
 <p align="center">
