@@ -18,5 +18,5 @@
 
 
 
-## Let's Get Connected!
+<h2 color="#5d42c1"> Let's Get Connected! <h2>
 <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
