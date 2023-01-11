@@ -11,11 +11,11 @@
 <p>
 
   
-👋🏼 Hello, my name is Katherine Mai and I am excited to embark on a new chapter in my professional journey. After starting out as a premed major, I discovered an interest in programming and decided to make a career change. I'm a driven and motivated learner, always seeking for new challenges and opportunities. I am eager to apply my strong analytical and problem-solving skills to the field of software development to any team.
+👋🏼 Hello, my name is Katherine Mai and I am excited to embark on a new chapter in my professional journey. I'm a driven and motivated learner, always seeking for new challenges and opportunities.
 
 🎨 On my free time, I love to spend time with family and friends, hang out with my fur baby (ask me about my shiba), watch the latest shows on Netflix, or learning Blender! If I could have one wish, I'd wish for more time in the day so I can do everything. 
 
-👩🏻‍💻 Some other tech I use: Python · JavaScript · Flask · React · Redux · SQL · HTML5 · CSS · SQLAlchemy · API Development · Object-Oriented Programming · Git · GitHub · Express · Redux · Sequelize · Software Development · SQLite · HTML · React Native · Full-Stack Development · Front-End Development · Back-End Web Development
+👩🏻‍💻 Some other tech I use: Python · JavaScript · Flask · React · Redux · SQL · HTML5 · CSS · SQLAlchemy · Git · GitHub · Express · Redux · Sequelize · SQLite · HTML · React Native ·
 
  
 <p align="center">
