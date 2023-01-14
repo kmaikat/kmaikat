@@ -17,14 +17,14 @@
 
 👩🏻‍💻 Some other tech I use: Python · JavaScript · Flask · React · Redux · SQL · HTML5 · CSS · SQLAlchemy · Git · GitHub · Express · Redux · Sequelize · SQLite · HTML · React Native ·
 
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmaikat&show_icons=true&theme=buefy&title_color=5d42c1&icon_color=F79DF3&count_private=true" />
+</a>
+<p>
  
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/kpmai20/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://angel.co/u/kat-mai" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)</a>
 
  
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kmaikat&show_icons=true&theme=buefy&title_color=5d42c1&icon_color=F79DF3&count_private=true" />
-</a>
-<p>
