@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hey! My name is Kat, I am learning
+  Hey there! My name is Kat, I am learning
 </h3>
 
 <p align="center">
