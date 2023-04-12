@@ -11,9 +11,9 @@
 <p>
 
   
-👋🏼 Hello, my name is Katherine Mai and I am excited to embark on a new chapter in my professional journey. I'm a driven and motivated learner, always seeking for new challenges and opportunities.
+👋🏼 Hello, my name is Katherine Mai and I'm excited to embark on a new chapter in my professional journey. I'm a driven and motivated learner with an eye for new challenges and opportunities.
 
-🎨 On my free time, I love to spend time with family and friends, hang out with my fur baby (ask me about my shiba), watch the latest shows on Netflix, or learning Blender! (:<
+🎨 On my free time, I love to spend time with family and friends, hang out with my fur baby (ask me about my shiba), watch the latest shows on Netflix, or learning how to 3D model! (:<
 
 👩🏻‍💻 Some other tech I use: Python · JavaScript · Flask · React · Redux · SQL · HTML5 · CSS · SQLAlchemy · Git · GitHub · Express · Redux · Sequelize · SQLite · HTML · React Native ·
 
