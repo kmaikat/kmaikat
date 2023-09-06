@@ -10,9 +10,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=5027&pause=1000&color=5d42c1&center=true&width=435&lines=how+to+code" alt="Typing SVG" /></a>
 <p>
 
-  
-👋🏼 Hello, my name is Katherine Mai.
-
 🎨 On my free time, I love to spend time with family and friends, hang out with my fur baby (ask me about my shiba), watch the latest shows on Netflix, or learning how to 3D model! (:<
 
 👩🏻‍💻 Some other tech I use: Python · JavaScript · Flask · React · Redux · SQL · HTML5 · CSS · SQLAlchemy · Git · GitHub · Express · Redux · Sequelize · SQLite · HTML · React Native ·
