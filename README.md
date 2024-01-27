@@ -3,12 +3,9 @@
 </div>
 
 <h3 align="center">
-  Hey there! My name is Kat, I am learning
+  Hey there! My name is Kat.
 </h3>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=5027&pause=1000&color=5d42c1&center=true&width=435&lines=how+to+code" alt="Typing SVG" /></a>
-<p>
 
 🎨 On my free time, I love to spend time with family and friends, hang out with my fur baby (ask me about my shiba), watch the latest shows on Netflix, or learning how to 3D model! (:<
 
