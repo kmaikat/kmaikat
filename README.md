@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hey there! My name is Kat.
+  Hey there! Kat is the name, coding is the game.
 </h3>
 
 
