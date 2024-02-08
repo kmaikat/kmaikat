@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hey there! Kat is the name, coding is the game.
+  Hey there! Kat is the name, coding is the game. 😎🔥
 </h3>
 
 
