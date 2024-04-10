@@ -7,7 +7,7 @@
 </h3>
 
 
-🎨 On my free time, I love to spend time with family and friends, hang out with my fur baby (ask me about my shiba), watch the latest shows on Netflix, or learning how to 3D model! (:<
+🎨 On my free time, I love to spend time with family and friends, hang out with my fur baby (ask me about my shiba), watch the latest shows on Netflix, and explore the city!
 
 👩🏻‍💻 Some other tech I use: Python · JavaScript · Flask · React · Redux · SQL · HTML5 · CSS · SQLAlchemy · Git · GitHub · Express · Redux · Sequelize · SQLite · HTML · React Native ·
  
